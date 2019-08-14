@@ -1,0 +1,25 @@
+body{
+	background-color: white;
+}
+.header{
+  overflow: hidden;
+  background-color: #fff;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  font-family: arial;
+  display: flex;
+  text-decoration: None;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+a{
+	color:black;
+	padding-left: 44px;
+}
+.left{
+	float:left;
+}
+.right{
+	margin-left: 50%;
+}
